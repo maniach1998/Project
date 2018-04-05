@@ -1,0 +1,101 @@
+,Amount,Date,Day,Email,Manager,Name,Time,Type,Veg
+1,2,01-03-18,thu,,Manas,Brewed Coffee,2:21,beverage,Veg
+1,2,01-03-18,thu,,Manas,Buttered Garlic Sticks,2:26,appetizer,Veg
+1,1,01-03-18,thu,,Manas,Paneer Makhanwala,2:26,main_course,Veg
+2,2,26-02-18,mon,,Manas,Buttered Garlic Sticks,2:21,appetizer,Veg
+3,2,28-02-18,wed,,Manas,Butter Chicken,2:26,main_course,NonVeg
+3,1,28-02-18,wed,,Manas,Buttered Garlic Sticks,2:26,appetizer,Veg
+5,1,28-02-18,wed,,Manas,Brewed Coffee,2:21,beverage,Veg
+4,1,28-02-18,wed,,Manas,Buttered Garlic Sticks,2:26,appetizer,Veg
+6,1,28-02-18,wed,,Manas,Buttered Garlic Sticks,2:26,appetizer,Veg
+7,2,28-02-18,wed,,Manas,Buttered Garlic Sticks,10:21,appetizer,Veg
+7,2,28-02-18,wed,,Manas,Paneer Makhanwala,10:21,main_course,Veg
+8,1,28-02-18,wed,,Manas,Chicken Hyderabadi,23:40,main_course,NonVeg
+8,1,28-02-18,wed,,Manas,Brewed Coffee,23:40,beverage,Veg
+8,1,28-02-18,wed,,Manas,Chicken Lollypop,23:40,appetizer,NonVeg
+9,1,01-03-18,thu,,Manas,Buttered Garlic Sticks,0:59,appetizer,Veg
+10,2,01-03-18,thu,,Manas,Chicken Hyderabadi,10:25,main_course,NonVeg
+11,1,01-03-18,thu,,Manas,Buttered Garlic Sticks,10:26,appetizer,Veg
+11,1,01-03-18,thu,,Manas,Paneer Makhanwala,10:26,main_course,Veg
+12,5,01-03-18,thu,,Manas,Chicken Teriyaki,17:39,appetizer,NonVeg
+13,1,01-03-18,thu,,Manas,Butter Chicken,17:40,main_course,NonVeg
+13,1,01-03-18,thu,,Manas,Chicken Hyderabadi,17:40,main_course,NonVeg
+13,1,01-03-18,thu,,Manas,Chicken Teriyaki,17:40,appetizer,NonVeg
+14,1,01-03-18,thu,,Manas,Chicken Banjara,23:01,main_course,NonVeg
+14,1,01-03-18,thu,,Manas,Chicken Hyderabadi,23:01,main_course,NonVeg
+14,3,01-03-18,thu,,Manas,Chicken Chilly,23:01,appetizer,NonVeg
+15,2,02-03-18,fri,,Manas,Butter Chicken,0:47,main_course,NonVeg
+15,1,02-03-18,fri,,Manas,Shrimp Scampi,0:47,main_course,NonVeg
+15,1,02-03-18,fri,,Manas,Brewed Coffee,0:47,beverage,Veg
+15,1,02-03-18,fri,,Manas,Chicken Lollypop,0:47,appetizer,NonVeg
+16,2,02-03-18,fri,,Manas,Buttered Garlic Sticks,0:55,appetizer,Veg
+16,1,02-03-18,fri,,Manas,Paneer Makhanwala,0:55,main_course,Veg
+16,1,02-03-18,fri,,Manas,Paneer Lababdar,0:55,main_course,Veg
+17,1,02-03-18,fri,,Manas,Paneer Patiala,17:16,main_course,Veg
+17,1,02-03-18,fri,,Manas,Brewed Coffee,17:16,beverage,Veg
+17,1,02-03-18,fri,,Manas,Buttered Garlic Sticks,17:16,appetizer,Veg
+17,1,02-03-18,fri,,Manas,BBQ Brisket Nachos,17:16,appetizer,Veg
+17,1,02-03-18,fri,,Manas,Paneer Makhanwala,17:16,main_course,Veg
+18,2,04-03-18,sun,sagarambilpure@gmail.com,Manas,Chicken Banjara,5:40,main_course,NonVeg
+18,1,04-03-18,sun,sagarambilpure@gmail.com,Manas,Lemonade,5:40,beverage,Veg
+18,2,04-03-18,sun,sagarambilpure@gmail.com,Manas,Chicken Chilly,5:40,appetizer,NonVeg
+19,1,04-03-18,sun,,Manas,Butter Chicken,5:51,main_course,NonVeg
+19,1,04-03-18,sun,,Manas,Chicken Banjara,5:51,main_course,NonVeg
+19,1,04-03-18,sun,,Manas,Buttered Garlic Sticks,5:51,appetizer,Veg
+20,2,07-03-18,wed,,Manas,Brewed Coffee,10:21,beverage,Veg
+20,1,07-03-18,wed,,Manas,Buttered Garlic Sticks,10:21,appetizer,Veg
+20,2,07-03-18,wed,,Manas,Chicken Teriyaki,10:21,appetizer,NonVeg
+21,2,07-03-18,wed,adityachavan198@gmail.com,Sagar_beard,Chicken Banjara,10:25,main_course,NonVeg
+21,2,07-03-18,wed,adityachavan198@gmail.com,Sagar_beard,Chicken Teriyaki,10:25,appetizer,NonVeg
+22,1,08-03-18,thu,shreeshail04@gmail.com,Manas,Chicken Banjara,13:00,main_course,NonVeg
+22,1,08-03-18,thu,shreeshail04@gmail.com,Manas,Brewed Coffee,13:00,beverage,Veg
+22,2,08-03-18,thu,shreeshail04@gmail.com,Manas,Chicken Lollypop,13:00,appetizer,NonVeg
+23,1,11-03-18,sun,,Manas,Chicken Banjara,12:58,main_course,NonVeg
+23,2,11-03-18,sun,,Manas,Buttered Garlic Sticks,12:58,appetizer,Veg
+23,2,11-03-18,sun,,Manas,Chicken Teriyaki,12:58,appetizer,NonVeg
+24,1,11-03-18,sun,,Manas,Chicken Hyderabadi,13:00,main_course,NonVeg
+24,1,11-03-18,sun,,Manas,Brewed Coffee,13:00,beverage,Veg
+24,2,11-03-18,sun,,Manas,Chicken Lollypop,13:00,appetizer,NonVeg
+25,1,12-03-18,mon,,Manas,Chicken Banjara,13:08,main_course,NonVeg
+25,1,12-03-18,mon,,Manas,Brewed Coffee,13:08,beverage,Veg
+25,1,12-03-18,mon,,Manas,Chicken Teriyaki,13:08,appetizer,NonVeg
+26,2,12-03-18,mon,,Manas,BBQ Brisket Nachos,13:09,appetizer,Veg
+26,1,12-03-18,mon,,Manas,Paneer Makhanwala,13:09,main_course,Veg
+27,2,11-03-18,sun,,Manas,Buttered Garlic Sticks,13:10,appetizer,Veg
+27,1,11-03-18,sun,,Manas,Paneer Makhanwala,13:10,main_course,Veg
+28,1,11-03-18,sun,,Manas,Chicken Lollypop,13:10,appetizer,NonVeg
+29,1,11-03-18,sun,,Manas,Chicken Banjara,13:10,main_course,NonVeg
+29,1,11-03-18,sun,,Manas,Chicken Chilly,13:10,appetizer,NonVeg
+30,1,11-03-18,sun,,Manas,Chicken Teriyaki,13:10,appetizer,NonVeg
+30,1,11-03-18,sun,,Manas,Chicken Chilly,13:10,appetizer,NonVeg
+31,1,11-03-18,sun,,Manas,Buttered Garlic Sticks,13:11,appetizer,Veg
+31,1,11-03-18,sun,,Manas,Veg Kadai,13:11,main_course,Veg
+32,1,11-03-18,sun,,Manas,Chicken Lollypop,13:11,appetizer,NonVeg
+33,1,09-03-18,fri,,Manas,Chicken Lollypop,13:14,appetizer,NonVeg
+34,1,08-03-18,thu,,Manas,Butter Chicken,13:17,main_course,NonVeg
+34,1,08-03-18,thu,,Manas,Paneer Chilly,13:17,appetizer,Veg
+35,1,12-03-18,mon,manas.acharekar98@gmail.com,Manas,Mocha,12:10,beverage,Veg
+35,1,12-03-18,mon,manas.acharekar98@gmail.com,Manas,Paneer Chilly,12:10,appetizer,Veg
+35,1,12-03-18,mon,manas.acharekar98@gmail.com,Manas,Paneer Makhanwala,12:10,main_course,Veg
+36,2,15-03-18,thu,,Manas,Brewed Coffee,18:00,beverage,Veg
+36,2,15-03-18,thu,,Manas,Buttered Garlic Sticks,18:00,appetizer,Veg
+37,1,19-03-18,mon,hireshchaudharr1706@gmail.com,Sagar,Paneer Patiala,14:49,main_course,Veg
+37,1,19-03-18,mon,hireshchaudharr1706@gmail.com,Sagar,Bottled Water,14:49,beverage,Veg
+37,1,19-03-18,mon,hireshchaudharr1706@gmail.com,Sagar,BBQ Brisket Nachos,14:49,appetizer,Veg
+38,1,21-03-18,wed,,Sagar,Chicken Hyderabadi,10:10,main_course,NonVeg
+38,3,21-03-18,wed,,Sagar,Lemonade,10:10,beverage,Veg
+38,1,21-03-18,wed,,Sagar,Chicken Teriyaki,10:10,appetizer,NonVeg
+39,1,18-03-18,sun,,Manas,Chicken Lollypop,10:10,appetizer,NonVeg
+39,1,18-03-18,sun,,Manas,Paneer Makhanwala,10:10,main_course,Veg
+40,1,21-03-18,wed,,Sagar,Brewed Coffee,10:32,beverage,Veg
+40,2,21-03-18,wed,,Sagar,Lemonade,10:32,beverage,Veg
+40,1,21-03-18,wed,,Sagar,Paneer Makhanwala,10:32,main_course,Veg
+41,2,02-04-18,mon,sagarambilpure@gmail.com,Manas,Chicken Lollypop,4:30,appetizer,NonVeg
+41,1,02-04-18,mon,sagarambilpure@gmail.com,Manas,Paneer Makhanwala,4:30,main_course,Veg
+42,3,02-04-18,mon,,Manas,Paneer Patiala,11:43,main_course,Veg
+42,1,02-04-18,mon,,Manas,Bottled Water,11:43,beverage,Veg
+42,2,02-04-18,mon,,Manas,Paneer Chilly,11:43,appetizer,Veg
+42,1,02-04-18,mon,,Manas,Chicken Teriyaki,11:43,appetizer,NonVeg
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
